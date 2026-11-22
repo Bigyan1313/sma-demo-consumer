@@ -1,0 +1,14 @@
+{
+  "recordedFrom": "demo-shop v2 (buildDemoApp via record-fixtures.ts)",
+  "request": {
+    "method": "GET",
+    "path": "/orders",
+    "query": {}
+  },
+  "response": {
+    "status": 400,
+    "body": {
+      "error": "Missing required query parameter: status"
+    }
+  }
+}

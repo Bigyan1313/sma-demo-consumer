@@ -1,0 +1,16 @@
+{
+  "recordedFrom": "demo-shop v2 (buildDemoApp via record-fixtures.ts)",
+  "request": {
+    "method": "GET",
+    "path": "/orders/4/invoice",
+    "query": {}
+  },
+  "response": {
+    "status": 404,
+    "body": {
+      "message": "Route GET:/orders/4/invoice not found",
+      "error": "Not Found",
+      "statusCode": 404
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "recordedFrom": "demo-shop v2 (buildDemoApp via record-fixtures.ts)",
+  "request": {
+    "method": "GET",
+    "path": "/invoices/3",
+    "query": {}
+  },
+  "response": {
+    "status": 200,
+    "body": {
+      "orderId": 3,
+      "invoiceNumber": "INV-0003",
+      "amountDue": 42,
+      "issuedAt": "2026-10-03T12:00:00.000Z"
+    }
+  }
+}

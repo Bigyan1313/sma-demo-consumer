@@ -1,0 +1,16 @@
+{
+  "recordedFrom": "demo-shop v2 (buildDemoApp via record-fixtures.ts)",
+  "request": {
+    "method": "GET",
+    "path": "/orders",
+    "query": {
+      "status": "bogus"
+    }
+  },
+  "response": {
+    "status": 400,
+    "body": {
+      "error": "Invalid status: bogus"
+    }
+  }
+}

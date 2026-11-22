@@ -1,0 +1,16 @@
+{
+  "recordedFrom": "demo-shop v2 (buildDemoApp via record-fixtures.ts)",
+  "request": {
+    "method": "GET",
+    "path": "/customers/2",
+    "query": {}
+  },
+  "response": {
+    "status": 200,
+    "body": {
+      "id": 2,
+      "full_name": "Alan Turing",
+      "email": "alan@example.com"
+    }
+  }
+}

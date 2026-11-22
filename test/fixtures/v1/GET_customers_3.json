@@ -1,0 +1,16 @@
+{
+  "recordedFrom": "demo-shop v1 (buildDemoApp via record-fixtures.ts)",
+  "request": {
+    "method": "GET",
+    "path": "/customers/3",
+    "query": {}
+  },
+  "response": {
+    "status": 200,
+    "body": {
+      "id": 3,
+      "customer_name": "Grace Hopper",
+      "email": "grace@example.com"
+    }
+  }
+}

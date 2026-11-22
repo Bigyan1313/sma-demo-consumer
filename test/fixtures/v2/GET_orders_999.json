@@ -1,0 +1,14 @@
+{
+  "recordedFrom": "demo-shop v2 (buildDemoApp via record-fixtures.ts)",
+  "request": {
+    "method": "GET",
+    "path": "/orders/999",
+    "query": {}
+  },
+  "response": {
+    "status": 404,
+    "body": {
+      "error": "Order not found"
+    }
+  }
+}

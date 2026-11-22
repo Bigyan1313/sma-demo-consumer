@@ -1,0 +1,17 @@
+{
+  "recordedFrom": "demo-shop v2 (buildDemoApp via record-fixtures.ts)",
+  "request": {
+    "method": "GET",
+    "path": "/customers/3",
+    "query": {}
+  },
+  "response": {
+    "status": 200,
+    "body": {
+      "id": 3,
+      "full_name": "Grace Hopper",
+      "email": "grace@example.com",
+      "phone": "+1 202 555 0143"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "recordedFrom": "demo-shop v1 (buildDemoApp via record-fixtures.ts)",
+  "request": {
+    "method": "GET",
+    "path": "/orders/4",
+    "query": {}
+  },
+  "response": {
+    "status": 200,
+    "body": {
+      "id": 4,
+      "customerId": 3,
+      "total": 100,
+      "status": "closed"
+    }
+  }
+}

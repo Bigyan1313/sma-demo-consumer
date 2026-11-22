@@ -1,0 +1,17 @@
+{
+  "recordedFrom": "demo-shop v2 (buildDemoApp via record-fixtures.ts)",
+  "request": {
+    "method": "GET",
+    "path": "/customers/1",
+    "query": {}
+  },
+  "response": {
+    "status": 200,
+    "body": {
+      "id": 1,
+      "full_name": "Ada Lovelace",
+      "email": "ada@example.com",
+      "phone": "+44 20 7946 0001"
+    }
+  }
+}

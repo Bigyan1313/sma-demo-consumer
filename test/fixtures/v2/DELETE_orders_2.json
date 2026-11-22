@@ -1,0 +1,16 @@
+{
+  "recordedFrom": "demo-shop v2 (buildDemoApp via record-fixtures.ts)",
+  "request": {
+    "method": "DELETE",
+    "path": "/orders/2",
+    "query": {}
+  },
+  "response": {
+    "status": 404,
+    "body": {
+      "message": "Route DELETE:/orders/2 not found",
+      "error": "Not Found",
+      "statusCode": 404
+    }
+  }
+}
